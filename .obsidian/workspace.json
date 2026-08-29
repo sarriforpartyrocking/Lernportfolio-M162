@@ -4,37 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9989976bb5d33c48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77ee47b5d3d2331b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Willkommen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Willkommen"
-            }
-          }
-        ]
-      },
-      {
         "id": "60ff6701137d769f",
         "type": "tabs",
+        "dimension": 65.8703071672355,
         "children": [
           {
             "id": "f69698b82a153dd6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Daten und Datenstrukturen/Merkmalstypen und Skalentypen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merkmalstypen und Skalentypen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a6c04d47da47cb6",
+        "type": "tabs",
+        "dimension": 34.129692832764505,
+        "children": [
+          {
+            "id": "d7ff85e289266ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daten und Datenstrukturen/(Un)Strukturierte Daten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Un)Strukturierte Daten"
             }
           }
         ]
@@ -99,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8c6167d290d10457",
@@ -204,8 +210,22 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "77ee47b5d3d2331b",
+  "active": "f69698b82a153dd6",
   "lastOpenFiles": [
-    "Willkommen.md"
+    "Anhänge/Pasted image 20260829193753.jpg",
+    "Anhänge",
+    "Daten und Datenstrukturen/Merkmalstypen und Skalentypen.md",
+    "Daten und Datenstrukturen/(Un)Strukturierte Daten.md",
+    "Pasted image 20260829185423.png",
+    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
+    "Daten und Datenstrukturen/Dateiformate.md",
+    "Daten und Datenstrukturen/Aufgaben",
+    "Daten und Datenstrukturen",
+    "Unbenannt.canvas",
+    "content/Willkommen.md",
+    "content/README.md",
+    "Willkommen.md",
+    "public/static/og-image.png",
+    "public/static/icon.png"
   ]
 }

@@ -1,0 +1,1 @@
+[[(Un)Strukturierte Daten]] [[Merkmalstypen und Skalentypen]], [[Datentypen]], [[Zeichenkodierung]], [[Datenstrukturen]] und [[Datenschutz]]. 
