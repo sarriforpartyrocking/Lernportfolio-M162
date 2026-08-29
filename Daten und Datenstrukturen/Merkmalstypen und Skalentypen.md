@@ -1,4 +1,4 @@
-![[Pasted image 20260829193753.jpg|310]]
+![[Pasted image 20260829193753.jpg|508]]
 ->Kategorisierung von Daten
 **diskret**: Wenn die Anzahl der möglichen Werte abzählbar sind
 e.g.: Anzahl der Auswahlmöglichkeiten ist abzählbar 
@@ -22,3 +22,6 @@ E.g. Schulnoten; Punktzahl zwischen einer 5 und 6 ist nicht dieselbe wie zwische
 ## Kardinalskala
 Auswahlmöglichkeiten stehen in einer Rangordnung und haben interpretierbare Abstände
 E.g. Frage nach Menge an Wasser, die man pro Tag trinkt
+
+# Aufgabe
+[[Fragebogen]]
