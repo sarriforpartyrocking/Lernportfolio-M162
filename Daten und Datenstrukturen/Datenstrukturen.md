@@ -26,8 +26,8 @@ Datenstrukturen bestimmen, **wie Daten organisiert, gespeichert und verarbeitet 
 - Elemente können einfach eingefügt oder gelöscht werden
 - Beispiel: Musik-Playlist
 - **Analogie:** Zug mit verbundenen Wagen
-- ![Pasted image 20260829220658.png](../Anh%C3%A4nge/Pasted%%20image%%2020260829220658.png)
-Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
+![Pasted image 20260829220658.png](../Anh%C3%A4nge/Pasted%20image%2020260829220658.png)
+- Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
 Wird ein Element am Schluss eingefügt, so wird der Nullzeiger des Vorgängers jetzt zum normalen Zeiger und der Zeiger vom Element wird zum Nullzeiger
