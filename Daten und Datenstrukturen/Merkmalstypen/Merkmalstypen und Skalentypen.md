@@ -21,6 +21,10 @@ E.g. Schulnoten; Punktzahl zwischen einer 5 und 6 ist nicht dieselbe wie zwische
 ## Kardinalskala
 Auswahlmöglichkeiten stehen in einer Rangordnung und haben interpretierbare Abstände
 E.g. Frage nach Menge an Wasser, die man pro Tag trinkt
+### Intervallskala
+Art der Kardinalskala mit **keinem** natürlichen Nullpunkt: E.g. Grad Celsius
+### Verhältnisskala
+Art der Kardinalskala mit einem natürlichen Nullpunkt: E.g. Liter Wasser, die man pro Tag trinkt; Werte können nicht ins Negative gehen
 
 # Aufgabe
-[[Fragebogen]]
+[Fragebogen](Fragebogen.md)
