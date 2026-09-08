@@ -40,8 +40,15 @@ Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
 - Elemente können einfach eingefügt oder gelöscht werden
 - Beispiel: Musik-Playlist
 - **Analogie:** Zug mit verbundenen Wagen
+<<<<<<< HEAD:Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md
  ![[Pasted image 20260829220658.png]]
 Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
+=======
+- Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
+
+![Pasted image 20260829220658.png](../Anh%C3%A4nge/Pasted%20image%2020260829220658.png)
+
+>>>>>>> d125a5bdf93c20709a33fb9cea0e89f1dc6fa8d2:Daten und Datenstrukturen/Datenstrukturen.md
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
 Wird ein Element am Schluss eingefügt, so wird der Nullzeiger des Vorgängers jetzt zum normalen Zeiger und der Zeiger vom Element wird zum Nullzeiger
@@ -105,5 +112,8 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Wird häufig für **Schlüssel-Wert-Paare** verwendet
 - **Hash-Kollision:** Zwei verschiedene Daten erzeugen **denselben Hashwert** und würden somit auf dieselbe Speicherposition zeigen. (Lösung: anderen Speicherplatz finden oder mehrere Werte an einem Platz verwalten. )
 - Beispiel: `Name → Telefonnummer`![[Pasted image 20260829222205.png]]
+<<<<<<< HEAD:Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md
 
 [[Datenstrukturen Aufgabe]]
+=======
+>>>>>>> d125a5bdf93c20709a33fb9cea0e89f1dc6fa8d2:Daten und Datenstrukturen/Datenstrukturen.md
