@@ -100,8 +100,9 @@ Finden Sie die ASCII Codes für die folgenden Zeichen:
 Laden Sie diese HTML-Seite herunter. Wenn Sie die Datei im Browser anschauen, sehen Sie falsche Zeichen. Flicken Sie die Seite, indem Sie Datei-Codierung anpassen.
 Lösung:
 <html>
+<html lang="de">
 	<head>
-		<meta charset="UTF-9">
+		<meta charset="UTF-6">
 	</head>
 	<body>
 		Umlaute: ü, Ü

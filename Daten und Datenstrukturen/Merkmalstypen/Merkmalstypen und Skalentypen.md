@@ -1,5 +1,4 @@
-![[Pasted image 20260829193753.jpg|508]]
-->Kategorisierung von Daten
+![Diagramm](Anhaenge/Skalentypen.jpg)->Kategorisierung von Daten
 **diskret**: Wenn die Anzahl der möglichen Werte abzählbar sind
 e.g.: Anzahl der Auswahlmöglichkeiten ist abzählbar 
 

@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daten und Datenstrukturen/Datentypen/DatentypenAufgabe.md",
+                "file": "Daten und Datenstrukturen/Merkmalstypen/Merkmalstypen und Skalentypen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DatentypenAufgabe"
+              "title": "Merkmalstypen und Skalentypen"
             }
           }
         ],
@@ -271,15 +271,17 @@
   },
   "active": "6a4d13d8efcc4a3e",
   "lastOpenFiles": [
-    "Daten und Datenstrukturen/Datentypen/Datentypen.md",
-    "Daten und Datenstrukturen/Datentypen/DatentypenAufgabe.md",
-    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md",
-    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen Aufgabe.md",
-    "Excel und Diagramme/Excel/Excel Dateien importierten.md",
-    "Excel und Diagramme/Excel/Auftrag Import.md",
+    "Anhaenge/Skalentypen.md",
     "Daten und Datenstrukturen/Merkmalstypen/Merkmalstypen und Skalentypen.md",
+    "Anhaenge/Skalentypen.jpg",
     "Excel und Diagramme/Datenqualität.md",
     "Excel und Diagramme/Excel und Diagramme.md",
+    "Excel und Diagramme/Excel/Excel Dateien importierten.md",
+    "Excel und Diagramme/Excel/Auftrag Import.md",
+    "Daten und Datenstrukturen/Datentypen/DatentypenAufgabe.md",
+    "Daten und Datenstrukturen/Datentypen/Datentypen.md",
+    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md",
+    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen Aufgabe.md",
     "einfache Diagrammtypen.md",
     "~$Partei.xlsx",
     "Partei.xlsx",
@@ -292,9 +294,9 @@
     "Excel und Diagramme",
     "Daten und Datenstrukturen/JSON/JSON.md",
     "Daten und Datenstrukturen/JSON/Auftrag JSON Adressdaten interpretieren.md",
-    "Anhänge/Pasted image 20260906085615.png",
-    "Anhänge/Pasted image 20260906083944.png",
-    "Anhänge/Pasted image 20260905195915.png",
+    "Anhaenge/Pasted image 20260906085615.png",
+    "Anhaenge/Pasted image 20260906083944.png",
+    "Anhaenge/Pasted image 20260905195915.png",
     "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
     "Daten und Datenstrukturen/Datenstrukturen",
     "Daten und Datenstrukturen/JSON",
@@ -308,15 +310,13 @@
     "Daten und Datenstrukturen/Datensicherheit.md",
     "Aufgabe4_a.html.md",
     "Aufgabe4_b.html.md",
-    "Anhänge/Pasted image 20260829222205.png",
-    "Anhänge/Pasted image 20260829222200.png",
-    "Anhänge/Pasted image 20260829222033.png",
-    "Anhänge/Pasted image 20260829221819.png",
-    "Anhänge/Pasted image 20260829221802.png",
-    "Anhänge/Pasted image 20260829221745.png",
-    "Anhänge/Pasted image 20260829220658.png",
+    "Anhaenge/Pasted image 20260829222205.png",
+    "Anhaenge/Pasted image 20260829222200.png",
+    "Anhaenge/Pasted image 20260829222033.png",
+    "Anhaenge/Pasted image 20260829221819.png",
+    "Anhaenge/Pasted image 20260829221802.png",
+    "Anhaenge/Pasted image 20260829221745.png",
     "Daten und Datenstrukturen/Dateiformate.md",
-    "Unbenannt.canvas",
-    "content/Willkommen.md"
+    "Unbenannt.canvas"
   ]
 }

@@ -43,6 +43,6 @@ Ziel der Datenbereinigung ist es, fehlerhafte, unvollständige, widersprüchlich
 - uneinheitliche Schreibweisen vereinheitlicht
 - alte/nicht mehr benötigte Datensätze werden entfernt
 
-Excel hat manuelle Datenbereinigungstools unter dem Reiter "Daten"
+Excel hat manuelle Datenbereinigungstools unter dem Reiter "Daten" und unter Start: Bedingte Formatierung kann man Regeln für die Datensätze festlegen
 
 
