@@ -11,6 +11,34 @@
             "id": "f69698b82a153dd6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daten und Datenstrukturen/Datenstrukturen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datenstrukturen"
+            }
+          },
+          {
+            "id": "bee21178f8a4ca14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daten und Datenstrukturen/JSON/Auftrag JSON Steckbrief.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auftrag JSON Steckbrief"
+            }
+          },
+          {
+            "id": "668d30a91c849a21",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -18,20 +46,49 @@
             }
           },
           {
-            "id": "cf232631afe6121d",
+            "id": "cf91bbe63c10f2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daten und Datenstrukturen/Aufgaben/Fragebogen.md",
+                "file": "Excel und Diagramme/Excel/Excel Dateien importierten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragebogen"
+              "title": "Excel Dateien importierten"
+            }
+          },
+          {
+            "id": "6a96793cfe1082c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel und Diagramme/Excel und Diagramme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excel und Diagramme"
+            }
+          },
+          {
+            "id": "6636f3187cc8ccef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daten und Datenstrukturen/Merkmalstypen/Merkmalstypen und Skalentypen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merkmalstypen und Skalentypen"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -50,7 +107,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,17 +255,45 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "f69698b82a153dd6",
+  "active": "6636f3187cc8ccef",
   "lastOpenFiles": [
-    "Daten und Datenstrukturen/Aufgaben/Datentypen Aufgabe.md",
+    "Excel und Diagramme/Datenqualität.md",
+    "Excel und Diagramme/Excel und Diagramme.md",
+    "Excel und Diagramme/Excel/Excel Dateien importierten.md",
+    "einfache Diagrammtypen.md",
+    "Excel und Diagramme/Excel/Auftrag Import.md",
+    "~$Partei.xlsx",
+    "Partei.xlsx",
+    "Excel Import/Export.md",
+    "Excel und Diagramme/Excel/Excel.md",
+    "Excel Import",
+    "Excel.md",
+    "Excel und Diagramme/Excel",
+    "Daten und Datenstrukturen/JSON/Auftrag JSON Steckbrief.md",
+    "Excel und Diagramme",
+    "Daten und Datenstrukturen/JSON/JSON.md",
+    "Daten und Datenstrukturen/JSON/Auftrag JSON Adressdaten interpretieren.md",
+    "Anhänge/Pasted image 20260906085615.png",
+    "Anhänge/Pasted image 20260906083944.png",
+    "Anhänge/Pasted image 20260905195915.png",
+    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
+    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen Aufgabe.md",
+    "Daten und Datenstrukturen/Datenstrukturen",
+    "Daten und Datenstrukturen/Merkmalstypen/Merkmalstypen und Skalentypen.md",
+    "Daten und Datenstrukturen/JSON",
+    "Daten und Datenstrukturen/Merkmalstypen",
+    "Daten und Datenstrukturen/(Un)Strukturierte Daten.md",
+    "Daten und Datenstrukturen/Datentypen/Datentypen.md",
+    "Daten und Datenstrukturen/Datentypen",
+    "Daten und Datenstrukturen/Datentypen/Datentypen Aufgabe.md",
+    "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md",
+    "Daten und Datenstrukturen/OpenData.md",
+    "Daten und Datenstrukturen/Merkmalstypen/Fragebogen.md",
+    "Daten und Datenstrukturen/Zeichenkodierung.md",
+    "Unbenannt 1",
+    "Daten und Datenstrukturen/Datensicherheit.md",
     "Aufgabe4_a.html.md",
     "Aufgabe4_b.html.md",
-    "Daten und Datenstrukturen/Zeichenkodierung.md",
-    "Daten und Datenstrukturen/Merkmalstypen und Skalentypen.md",
-    "Daten und Datenstrukturen/Datentypen.md",
-    "Daten und Datenstrukturen/Datenstrukturen.md",
-    "Daten und Datenstrukturen/Datenschutz.md",
-    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
     "Anhänge/Pasted image 20260829222205.png",
     "Anhänge/Pasted image 20260829222200.png",
     "Anhänge/Pasted image 20260829222033.png",
@@ -216,25 +301,8 @@
     "Anhänge/Pasted image 20260829221802.png",
     "Anhänge/Pasted image 20260829221745.png",
     "Anhänge/Pasted image 20260829220658.png",
-    "Anhänge/Pasted image 20260829211809.png",
-    "Anhänge/Pasted image 20260829210920.jpg",
-    "Anhänge/Pasted image 20260829193753.jpg",
-    "Anhänge/Fragebogen Studiengang Informatik.pdf",
-    "Daten und Datenstrukturen/(Un)Strukturierte Daten.md",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen.md",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik.html",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/lazy.min.js.Herunterladen",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/m=viewer_base",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/css(1)",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/css",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/rs=AMjVe6j8IlDYpLhCUK3Kn1EBM3VPc6GDLw",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files/icon",
-    "Daten und Datenstrukturen/Aufgaben/Fragebogen Studiengang Informatik_files",
-    "Anhänge",
     "Daten und Datenstrukturen/Dateiformate.md",
     "Unbenannt.canvas",
-    "content/Willkommen.md",
-    "content/README.md",
-    "Willkommen.md"
+    "content/Willkommen.md"
   ]
 }

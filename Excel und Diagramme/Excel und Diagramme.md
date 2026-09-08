@@ -1,0 +1,1 @@
+In diesem Kapitel wurden [[Excel Dateien importierten]], [[Excel Diagramme erstellen]], [[einfache Diagrammtypen]] und [[Datenqualität]] behandelt.

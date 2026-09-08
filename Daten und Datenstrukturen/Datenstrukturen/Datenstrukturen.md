@@ -10,6 +10,20 @@ Datenstrukturen bestimmen, **wie Daten organisiert, gespeichert und verarbeitet 
 - Beispiel: `(ID=12, Name=Hans, Alter=20)`
 - Entspricht ungefähr **einer Zeile in einer Tabelle**
 
+
+Der kleine Unterschied liegt eher in der **Bezeichnung und im Kontext**:
+
+- **Tupel** → mathematisch/fachsprachlich in relationalen Datenbanken
+- **Datensatz** → deutscher allgemeiner Begriff
+- **Record** → englischer Begriff
+
+![[Pasted image 20260905195915.png]]
+
+Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
+
+> **Tupel = Datensatz = Record = eine Zeile einer Relation (Tabelle).**
+
+
 ## Array
 
 - Speichert **mehrere Werte** vom **gleichen Datentyp**
@@ -26,7 +40,7 @@ Datenstrukturen bestimmen, **wie Daten organisiert, gespeichert und verarbeitet 
 - Elemente können einfach eingefügt oder gelöscht werden
 - Beispiel: Musik-Playlist
 - **Analogie:** Zug mit verbundenen Wagen
-- ![[Pasted image 20260829220658.png]]
+ ![[Pasted image 20260829220658.png]]
 Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
@@ -80,6 +94,7 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 ## Heap
 
 - Baumstruktur für **Prioritätswarteschlangen**
+- Spezieller Baum
 - Wichtig: `insert`, `remove`, `extractMin`
 - Ermöglicht schnelles Finden des Elements mit der höchsten/niedrigsten Priorität
 ![[Pasted image 20260829222200.png]]
@@ -90,3 +105,5 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Wird häufig für **Schlüssel-Wert-Paare** verwendet
 - **Hash-Kollision:** Zwei verschiedene Daten erzeugen **denselben Hashwert** und würden somit auf dieselbe Speicherposition zeigen. (Lösung: anderen Speicherplatz finden oder mehrere Werte an einem Platz verwalten. )
 - Beispiel: `Name → Telefonnummer`![[Pasted image 20260829222205.png]]
+
+[[Datenstrukturen Aufgabe]]

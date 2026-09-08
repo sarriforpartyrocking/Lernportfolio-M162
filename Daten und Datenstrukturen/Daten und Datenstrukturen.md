@@ -1,1 +1,3 @@
-[[(Un)Strukturierte Daten]] [[Merkmalstypen und Skalentypen]], [[Datentypen]], [[Zeichenkodierung]], [[Datenstrukturen]] und [[Datenschutz]]. 
+[[(Un)Strukturierte Daten]] [[Merkmalstypen und Skalentypen]], [[Datentypen]], [[Zeichenkodierung]], [[Datenstrukturen]], [[Datensicherheit]] und [[JSON]]
+
+[[OpenData]]
