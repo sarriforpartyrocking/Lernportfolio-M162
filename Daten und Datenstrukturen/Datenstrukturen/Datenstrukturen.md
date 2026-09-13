@@ -18,7 +18,9 @@ Der kleine Unterschied liegt eher in der **Bezeichnung und im Kontext**:
 - **Datensatz** → deutscher allgemeiner Begriff
 - **Record** → englischer Begriff
 
-![[Pasted image 20260905195915.png]]
+
+![Datensatz](/Anhaenge/Datensatz.png)
+
 
 Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
 
@@ -41,9 +43,10 @@ Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
 - Elemente können einfach eingefügt oder gelöscht werden
 - Beispiel: Musik-Playlist
 - **Analogie:** Zug mit verbundenen Wagen
- ![[Pasted image 20260829220658.png]]
-
 - Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
+
+![VerketteteListe](/Anhaenge/VerketteteListe.png)
+
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
 Wird ein Element am Schluss eingefügt, so wird der Nullzeiger des Vorgängers jetzt zum normalen Zeiger und der Zeiger vom Element wird zum Nullzeiger
@@ -65,7 +68,9 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - `enqueue` → Element hinzufügen
 - `dequeue` → erstes Element entfernen
 - **Analogie:** Warteschlange
-![[Pasted image 20260829221802.png]]
+
+![Queue](/Anhaenge/Queue.png)
+
 ## Priority Queue / Vorrangwarteschlange
 
 - Elemente besitzen eine **Priorität**
@@ -74,15 +79,18 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Wird häufig mit **Heaps** umgesetzt
 - **Analogie:** VIP-Warteschlange
 - Dequeue liefert das Objekt mit der höchsten priorität
--
-![[Pasted image 20260829221819.png]]
+
+
+![Vorrangwarteschlange](/Anhaenge/Vorrangwarteschlange.png)
 ## Graph
 
 - Besteht aus **Knoten und Verbindungen**
 - Ein Knoten kann mit **mehreren anderen Knoten** verbunden sein
 - Verbindungen können ein- oder zweiseitig sein
 - Beispiel: GPS / Strassennetz
-![[Pasted image 20260829222033.png]]
+
+![Graph](/Anhaenge/Graph.png)
+
 ## Baum
 
 - **Spezielle Form eines Graphen**
@@ -99,16 +107,17 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Spezieller Baum
 - Wichtig: `insert`, `remove`, `extractMin`
 - Ermöglicht schnelles Finden des Elements mit der höchsten/niedrigsten Priorität
-![[Pasted image 20260829222200.png]]
+
+![Heap](/Anhaenge/Heap.png)
+
 ## Hashtabelle
 
 - Speicherposition wird direkt über einen **Hashwert berechnet**
 - Dadurch ist **sehr schnelles Suchen** möglich
 - Wird häufig für **Schlüssel-Wert-Paare** verwendet
 - **Hash-Kollision:** Zwei verschiedene Daten erzeugen **denselben Hashwert** und würden somit auf dieselbe Speicherposition zeigen. (Lösung: anderen Speicherplatz finden oder mehrere Werte an einem Platz verwalten. )
-- Beispiel: `Name → Telefonnummer`![[Pasted image 20260829222205.png]]
-<<<<<<< HEAD:Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md
+- Beispiel: `Name → Telefonnummer`
 
-[[Datenstrukturen Aufgabe]]
-=======
->>>>>>> d125a5bdf93c20709a33fb9cea0e89f1dc6fa8d2:Daten und Datenstrukturen/Datenstrukturen.md
+![Hashtabelle](/Anhaenge/Hashtabelle.png)
+
+[DatenstrukturenAufgabe](DatenstrukturenAufgabe.md)

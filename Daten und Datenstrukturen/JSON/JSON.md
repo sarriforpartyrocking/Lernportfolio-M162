@@ -60,6 +60,6 @@ Merke:
 `{}` = eine Person bzw. ein Objekt
 
 ```
-[[Auftrag JSON Steckbrief]]
-[[Auftrag JSON Adressdaten interpretieren]]
+[AuftragJSONSteckbrief](AuftragJSONSteckbrief.md)
+[AuftragJSONAdressdatenInterpretieren](AuftragJSONAdressdatenInterpretieren.md)
 
