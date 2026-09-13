@@ -1,6 +1,6 @@
 
-![[Pasted image 20260829210920.jpg|510]]
-
+![Datentypen](Anhaenge/Datentypen.jpg)
+<br>
 # Primitive Datentypen
 | Datentyp                                 | Bezeichnung                                          | Wertebereich                                               | Operationen                                              |
 | ---------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
@@ -39,6 +39,8 @@
 ## Memory Management
 Java: 
 Die beiden Hauptspeicher sind die beiden *Speichertypen* **Heap** und **Stack**. Stack speichert die einfachen/primitiven Datentypen, während Heap für die zusammengesetzen/komplexen verantwortlich ist. Auf die komplexen Datentypen wird mit einem Pointer aus dem Stack referenziert: 
-![[Pasted image 20260829211809.png]]
+<br>
+![MemoryManagement](Anhaenge/MemoryManagement.png)
+
 
 [DatentypenAufgabe](DatentypenAufgabe.md)

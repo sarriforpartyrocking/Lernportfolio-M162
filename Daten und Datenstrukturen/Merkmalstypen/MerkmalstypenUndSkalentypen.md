@@ -1,4 +1,5 @@
 ![Skalentypen](/Anhaenge/Skalentypen.jpg)
+<br>
 **diskret**: Wenn die Anzahl der möglichen Werte abzählbar sind
 e.g.: Anzahl der Auswahlmöglichkeiten ist abzählbar 
 
