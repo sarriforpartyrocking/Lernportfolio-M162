@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daten und Datenstrukturen/Zeichenkodierung.md",
+                "file": "Daten und Datenstrukturen/Merkmalstypen/MerkmalstypenUndSkalentypen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zeichenkodierung"
+              "title": "MerkmalstypenUndSkalentypen"
             }
           }
         ],
@@ -271,24 +271,24 @@
   },
   "active": "6a4d13d8efcc4a3e",
   "lastOpenFiles": [
-    "Anhaenge/asciibasic.gif",
+    "Anhaenge/Skalentypen.jpg",
+    "Daten und Datenstrukturen/Merkmalstypen/MerkmalstypenUndSkalentypen.md",
+    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
+    "Daten und Datenstrukturen/UnStrukturierteDaten.md",
     "Daten und Datenstrukturen/Zeichenkodierung.md",
+    "Anhaenge/asciibasic.gif",
     "Anhaenge/Pasted image 20260829220658.png",
     "Anhaenge/Pasted image 20260829211809.png",
     "Anhaenge/Pasted image 20260829210920.jpg",
     "Anhaenge/Fragebogen Studiengang Informatik.pdf",
-    "Daten und Datenstrukturen/Merkmalstypen/MerkmalstypenUndSkalentypen.md",
-    "Anhaenge/Skalentypen.jpg",
     "Excel und Diagramme/Excel/Excel Prüfungsvorbereitung.md",
     "Excel und Diagramme/Excel/ExcelDateienImportierten.md",
     "Excel und Diagramme/Excel/AuftragImport.md",
     "Excel und Diagramme/Excel/Excel Datenqualität Checkliste.md",
     "Excel und Diagramme/Datenqualität.md",
     "Excel und Diagramme/Excel und Diagramme.md",
-    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
     "Daten und Datenstrukturen/DatensicherheitUndDatenschutz.md",
     "Daten und Datenstrukturen/Datentypen/Datentypen.md",
-    "Daten und Datenstrukturen/UnStrukturierteDaten.md",
     "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md",
     "Merkmalstypen.md",
     "Daten und Datenstrukturen/OpenData.md",
