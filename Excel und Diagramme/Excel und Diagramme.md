@@ -1,1 +1,1 @@
-In diesem Kapitel wurden [[Excel Dateien importierten]], [[Excel Diagramme erstellen]], [[einfache Diagrammtypen]] und [[Datenqualität]] behandelt.
+In diesem Kapitel wurden [ExcelDateienImportierten](ExcelDateienImportieren.md), [[Excel Diagramme erstellen]], [[einfache Diagrammtypen]] und [Datenqualität](Datenqualität.md) behandelt.
