@@ -1,7 +1,9 @@
-*Referenz: [Daten_Formate/Zeichencodierung.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Zeichencodierung.md?ref_type=heads)*<br>
+*Referenz: [Daten_Formate/Zeichencodierung.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Zeichencodierung.md?ref_type=heads)*
+<br>
 Zeichenkodierung stellt sich die Frage **wie** Daten abgespeichert werden.
 Jedes Zeichen wird auf der Festplatte oder im Speicher binär abgespeichert.
-<br>![[asciibasic.gif]]
+<br>
+![Skalentypen](../Anhaenge/asciibasic.gif)
 <br>
 Der ASCII-Code benötigt 7 Bit für das Speichern, da mit 7 bit 2^7 (128) Zustände gespeichert werden können.
 Hierbei wird das Zeichen 65 (Dec) und "A" gleich repräsentiert (01000001 (hier 1 Byte= 8Bit)).
