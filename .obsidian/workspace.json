@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daten und Datenstrukturen/Datentypen/Datentypen.md",
+                "file": "Daten und Datenstrukturen/DatensicherheitUndDatenschutz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datentypen"
+              "title": "DatensicherheitUndDatenschutz"
             }
           }
         ],
@@ -271,18 +271,19 @@
   },
   "active": "6a4d13d8efcc4a3e",
   "lastOpenFiles": [
+    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
+    "Daten und Datenstrukturen/DatensicherheitUndDatenschutz.md",
+    "Daten und Datenstrukturen/Datentypen/Datentypen.md",
+    "Daten und Datenstrukturen/UnStrukturierteDaten.md",
+    "Daten und Datenstrukturen/Merkmalstypen/MerkmalstypenUndSkalentypen.md",
+    "Daten und Datenstrukturen/Zeichenkodierung.md",
     "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md",
+    "Merkmalstypen.md",
     "Excel und Diagramme/Excel/Excel Prüfungsvorbereitung.md",
     "Excel und Diagramme/Excel/Excel Datenqualität Checkliste.md",
-    "Daten und Datenstrukturen/Datentypen/Datentypen.md",
     "Excel und Diagramme/Excel/Auftrag Import.md",
-    "Daten und Datenstrukturen/Datensicherheit und Datenschutz.md",
     "Daten und Datenstrukturen/OpenData.md",
-    "Daten und Datenstrukturen/(Un)Strukturierte Daten.md",
     "Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen Aufgabe.md",
-    "Daten und Datenstrukturen/Daten und Datenstrukturen.md",
-    "Daten und Datenstrukturen/Zeichenkodierung.md",
-    "Daten und Datenstrukturen/Merkmalstypen/Merkmalstypen und Skalentypen.md",
     "Daten und Datenstrukturen/Datentypen/DatentypenAufgabe.md",
     "Excel und Diagramme/Datenqualität.md",
     "Excel und Diagramme/Excel und Diagramme.md",
@@ -310,7 +311,6 @@
     "Daten und Datenstrukturen/Merkmalstypen",
     "Daten und Datenstrukturen/Datentypen",
     "Unbenannt 1",
-    "Aufgabe4_a.html.md",
     "Anhaenge/Pasted image 20260829222205.png",
     "Anhaenge/Pasted image 20260829222200.png",
     "Anhaenge/Pasted image 20260829222033.png",
