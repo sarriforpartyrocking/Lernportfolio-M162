@@ -1,4 +1,5 @@
 # Datenstrukturen
+*Referenz:[Daten_Formate/StrukturierteDaten.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/StrukturierteDaten.md?ref_type=heads)*
 
 Datenstrukturen bestimmen, **wie Daten organisiert, gespeichert und verarbeitet werden**.
 
@@ -40,15 +41,9 @@ Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
 - Elemente können einfach eingefügt oder gelöscht werden
 - Beispiel: Musik-Playlist
 - **Analogie:** Zug mit verbundenen Wagen
-<<<<<<< HEAD:Daten und Datenstrukturen/Datenstrukturen/Datenstrukturen.md
  ![[Pasted image 20260829220658.png]]
-Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
-=======
+
 - Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
-
-![Pasted image 20260829220658.png](../Anh%C3%A4nge/Pasted%20image%2020260829220658.png)
-
->>>>>>> d125a5bdf93c20709a33fb9cea0e89f1dc6fa8d2:Daten und Datenstrukturen/Datenstrukturen.md
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
 Wird ein Element am Schluss eingefügt, so wird der Nullzeiger des Vorgängers jetzt zum normalen Zeiger und der Zeiger vom Element wird zum Nullzeiger

@@ -1,7 +1,17 @@
+*Referenz: [Daten_Formate/Zeichencodierung.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Zeichencodierung.md?ref_type=heads)*
 Zeichenkodierung stellt sich die Frage **wie** Daten abgespeichert werden.
 Jedes Zeichen wird auf der Festplatte oder im Speicher binär abgespeichert.![[asciibasic.gif]]
 Der ASCII-Code benötigt 7 Bit für das Speichern, da mit 7 bit 2^7 (128) Zustände gespeichert werden können.
 Hierbei wird das Zeichen 65 (Dec) und "A" gleich repräsentiert (01000001 (hier 1 Byte= 8Bit)).
+
+Aber wie unterscheidet ein Computer zwischen ASCII-Zeichenwert und 64 als numerischen Wert?
+Die Bits sind immer gleich. Aber:
+
+- Interpretation als **Integer** → `65`
+- Interpretation als **ASCII-Zeichen** → `'A'`
+
+Das Programm bzw. der Datentyp legt also fest, was die Bits bedeuten.
+<mark>Bits haben nicht von sich aus eine Bedeutung. Der Kontext bestimmt, wie sie interpretiert werden.</mark>
 
 ## 8-Bit Zeichensätze
 - ASCII: **7 Bit → 128 Zeichen**

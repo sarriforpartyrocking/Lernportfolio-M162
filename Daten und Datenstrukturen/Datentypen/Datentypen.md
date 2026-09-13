@@ -13,7 +13,17 @@
 | **Gleitkommazahlen**                     | `FLOAT`, `DOUBLE`, `REAL`, `SINGLE`, `HALF`, …       | Verschiedene Definitionen                                  | `+`, `-`, `*`, `/`, `<`, `>`, `=`                        |
 | **Zeiger**                               | `POINTER`, `ACCESS`, `IntPtr`, `*`                   | Adresse eines Basistyps                                    | Referenz, Dereferenzierung, teilweise `+`, `-`, `*`, `/` |
 | **Konstanter Nullzeiger**                | `NULL`, `VOID`, `None`, `NIL`, `Nothing`             | Kein eigener Wertebereich                                  | `=`                                                      |
-
+## Speicherbedarf von primitiven Datentypen:
+| Datentyp  |   Speicherplatz | Typischer Wertebereich           |
+| --------- | --------------: | -------------------------------- |
+| `boolean` |         1 Byte* | `true` / `false`                 |
+| `char`    |         1 Byte* | ein Zeichen                      |
+| `byte`    |          1 Byte | 0–255                            |
+| `short`   | 2 Byte = 16 Bit | −32'768 bis 32'767               |
+| `int`     | 4 Byte = 32 Bit | −2'147'483'648 bis 2'147'483'647 |
+| `long`    | 8 Byte = 64 Bit | sehr grosse ganze Zahlen         |
+| `float`   | 4 Byte = 32 Bit | Kommazahlen                      |
+| `double`  | 8 Byte = 64 Bit | genauere Kommazahlen             |
 
 # Komplexe Datentypen
 | Datentyp | Bezeichnung | Wertebereich | Operationen |

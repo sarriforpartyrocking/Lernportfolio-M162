@@ -1,3 +1,5 @@
+*Referenz: [Daten_Formate/StrukturierteDaten.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/StrukturierteDaten.md?ref_type=heads)*
+
 Objekte zur Speicherung und Organisation von Daten werden "Datenstruktur" genannt, da sie dafür verantwortlich sind, Daten anzuordnen und zu verknüpfen. Dabei Unterscheidet man zwischen Strukturierten und Unstrukturierten Daten
 
 # Strukturierte Daten
@@ -33,13 +35,11 @@ Unstrukturierte Daten folgen **keinem vordefinierten Schema**, das ihre Organisa
 Textmining analysiert grosse Mengen an Text, erkennt darin relevante **Begriffe und Zusammenhänge** und macht diese für weitere Analysen nutzbar.
 ### Maschinelles Lernen
 Maschinelles Lernen ist besonders bei großen Datenmengen effektiv, erfordert jedoch geeignete **Trainingsdaten, Training und Überwachung** und ist nicht für jede Anwendung geeignet.
-
 ### Linguistisches Verfahren
 Ein **linguistisches Verfahren** versucht, anhand von **sprachlichen Regeln und dem Kontext** herauszufinden, welche Bedeutung gemeint ist. Dieses Verfahren verhindert Ambiguität und ist schneller als das maschinelle Lernen
 
 # Organisation von Daten
 Die Art wie Informationen sortiert sind und wie auf sie zugegriffen werden kann
-
 ### Strukturierungsgrad von Daten
 **Textdaten**; unstrukturierte Daten; keine Einschränkungen an die Struktur; beschränkte Auswertemöglichkeiten
 **Tabellendaten**; mässig strukturiert; Typ: entweder Text oder Zahl; Gut geeignet für Analysen und Vergleiche
