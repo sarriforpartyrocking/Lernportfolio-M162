@@ -1,3 +1,6 @@
+*Referenz: [Daten_Formate/Json.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Json.md)*
+
+
 (JavaScript Object Notation)
 - Easy to Read/Write
 - API's and Configs

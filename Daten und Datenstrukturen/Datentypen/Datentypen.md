@@ -1,3 +1,5 @@
+*Referenz: [Daten_Formate/Datentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Datentypen.md)*
+
 
 ![Datentypen](/Anhaenge/Datentypen.jpg)
 <br>

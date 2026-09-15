@@ -1,3 +1,7 @@
+
+*Referenz: [Daten_Formate/Merkmalstypen_Skalentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Merkmalstypen_Skalentypen.md)*
+
+
 ![Skalentypen](/Anhaenge/Skalentypen.jpg)
 <br>
 **diskret**: Wenn die Anzahl der möglichen Werte abzählbar sind
@@ -26,6 +30,9 @@ E.g. Frage nach Menge an Wasser, die man pro Tag trinkt
 Art der Kardinalskala mit **keinem** natürlichen Nullpunkt: E.g. Grad Celsius
 ### Verhältnisskala
 Art der Kardinalskala mit einem natürlichen Nullpunkt: E.g. Liter Wasser, die man pro Tag trinkt; Werte können nicht ins Negative gehen
+
+# Unterschied Skalentyp Merkmal und Ausprägung
+
 
 # Aufgabe
 [Fragebogen](Fragebogen.md)
