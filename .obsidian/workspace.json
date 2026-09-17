@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel und Diagramme/Diagramme erstellen/Excel Diagramme erstellen.md",
+                "file": "Excel und Diagramme/Excel/Excel Datenqualität Checkliste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel Diagramme erstellen"
+              "title": "Excel Datenqualität Checkliste"
             }
           }
         ],
@@ -271,14 +271,14 @@
   },
   "active": "6a4d13d8efcc4a3e",
   "lastOpenFiles": [
+    "Excel und Diagramme/Excel/Excel Prüfungsvorbereitung.md",
+    "Excel und Diagramme/Diagramme erstellen/Excel Diagramme erstellen.md",
     "Excel und Diagramme/Diagramme erstellen/EinfacheDiagrammtypen.md",
     "Excel und Diagramme/Datenqualität.md",
     "Excel und Diagramme/Excel und Diagramme.md",
-    "Excel und Diagramme/Excel/Excel Prüfungsvorbereitung.md",
     "Excel und Diagramme/Excel/Excel Datenqualität Checkliste.md",
     "Excel und Diagramme/Excel/AuftragImport.md",
     "Excel und Diagramme/Excel/ExcelDateienImportierten.md",
-    "Excel und Diagramme/Diagramme erstellen/Excel Diagramme erstellen.md",
     "Daten und Datenstrukturen/OpenData.md",
     "Daten und Datenstrukturen/DatensicherheitUndDatenschutz.md",
     "Daten und Datenstrukturen/Zeichenkodierung.md",
