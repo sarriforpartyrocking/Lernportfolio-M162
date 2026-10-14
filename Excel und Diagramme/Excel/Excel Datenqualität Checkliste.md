@@ -2,7 +2,6 @@
 	- Leere Zellen markieren
 
 - **Eindeutigkeit** bedeutet, dass jeder reale Sachverhalt oder jedes Objekt **genau einmal** und **eindeutig identifizierbar** ist. Ein Kunde sollte beispielsweise nur **einmal im System existieren** und nicht unter mehreren leicht abweichenden Namen erfasst werden.
-	- 
 
 - **Redundanz** liegt vor, wenn dieselben Informationen **mehrfach gespeichert** werden. Redundante Daten entstehen häufig durch **fehlende Eindeutigkeit**, etwa wenn ein Kunde versehentlich mehrfach angelegt wird.
 	- Duplikate entfernen

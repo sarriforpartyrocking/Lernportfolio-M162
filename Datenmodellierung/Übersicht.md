@@ -1,0 +1,1 @@
+[ERD-ERM](ERD-ERM.md), [Beziehungen-Kardinalität](Beziehungen-Kardinalität.md), [Redundanzen](Redundanzen.md), [Datenmodell-Typen](Datenmodell-Typen.md), [Normalisierung](Normalisierung.md), [Referenzielle-Integrität](Referenzielle-Integrität.md), [MySQL-Workbench](MySQL-Workbench.md) und [Forward-Engineering-von-DBs](Forward-Engineering-von-DBs.md)
