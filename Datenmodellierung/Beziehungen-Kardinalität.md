@@ -30,7 +30,6 @@ Assoziationen bestehen aus Kardinalitäten und Bezeichnungen:
 
 ##### 1. Hierarchische Beziehungen – dunkelgrau
 
-C = konditionell, weil die Beziehung nicht zwingend bestehen muss – sie kann also auch 0 sein.
 
 Sie beschreiben eine Über- und Unterordnung. Eine Einheit ist beispielsweise einer anderen unterstellt.
 
@@ -41,13 +40,15 @@ In der Matrix sind diejenigen Felder, die eine 1 enthalten, hierarchisch zu vers
 
 ##### 2. Konditionelle Beziehungen – hellgrau
 
+C = konditionell, weil die Beziehung nicht zwingend bestehen muss – sie kann also auch 0 sein. 
+
 Sie beschreiben Beziehungen, die von bestimmten Bedingungen abhängig sind.
 
 Beispiel: Ein Mitarbeiter wird einer Abteilung nur zugeteilt, wenn eine bestimmte Voraussetzung erfüllt ist.
 
 In der Matrix sind diejenigen Felder, die eine konditionelle Beziehung darstellen, von einer bestimmten Bedingung abhängig. Das bedeutet, dass eine Entität nur dann existiert oder relevant ist, wenn eine bestimmte Voraussetzung erfüllt ist. Ist diese Bedingung nicht erfüllt, besteht die Beziehung zwischen den Entitäten nicht.
 
-**Beispiel**: Ein Mitarbeiter erhält nur dann einen Firmenwagen, wenn seine Position im Unternehmen dies voraussetzt. Die Beziehung zwischen dem Mitarbeiter und dem Firmenwagen ist somit konditionell, da sie nur unter einer bestimmten Bedingung besteht.
+**Beispiel**: Ein Schüler kann ein Schliessfach haben, muss aber nicht. Deshalb steht C für 0 oder 1, also für eine optionale Beziehung.
 
 
 ##### 3. Netzwerkförmige Beziehungen – weiss
