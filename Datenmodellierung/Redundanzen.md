@@ -18,10 +18,9 @@ Problem: Wenn Gustav umzieht, muss man Adresse an mehreren Stellen ändern. Wird
 ## 2. Drei Anomalien
 
 ### **Einfüge-Anomalie**
-Man kann Daten nicht einfügen, ohne gleichzeitig andere Daten eintragen zu müssen.
+Man wählt den PK so, dass er nicht eindeutig ist.
 
-Beispiel: Man möchte einen neuen Kunden speichern, aber die Tabelle verlangt zwingend eine Bestellung. Ohne Bestellung kannst man den Kunden nicht erfassen.
-
+Beispiel: Man nimmt den Namen einer Person als PK und sobald eine Person mit demselben Namen als Datensatz eingetragen wird, gibt es eine Kollision.
 
 ### **Änderungs-Anomalie**
 Dieselbe Information muss an mehreren Stellen geändert werden.

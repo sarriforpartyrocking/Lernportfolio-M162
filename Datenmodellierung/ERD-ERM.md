@@ -6,6 +6,10 @@ ERD und ERM stehen für:
 Unterschied:
 Das **Diagram** bezeichnet ein einzelnes Diagramm (wie der Name schon sagt), wobei das **Model** eine Sammlung von Diagrammen bezeichnet.
 
+## ERM
+Besteht aus:
+- Mehreren ERDs
+
 ## ERD
 Besteht aus:
 - **Entitäten**: Ein Objekt: z.B.: die Lehrperson oder ein Lernender
