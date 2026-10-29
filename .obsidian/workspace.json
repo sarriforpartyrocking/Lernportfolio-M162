@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Datenmodellierung/01-Übersicht.md",
+                "file": "02-Excel und Diagramme/01-Übersicht.md",
                 "mode": "source",
                 "source": false
               },
@@ -355,6 +355,8 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
+    "01-Daten und Datenstrukturen/01-Übersicht.md",
+    "03-Datenmodellierung/01-Übersicht.md",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf",
     "03-Datenmodellierung/06-Referenzielle-Integrität",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf/ChatGPT Chatverlauf.md",
@@ -362,12 +364,10 @@
     "03-Datenmodellierung/Redundanzen.md",
     "03-Datenmodellierung/Beziehungen-Kardinalität.md",
     "03-Datenmodellierung/04-Normalisierung/Normalisierung.md",
-    "03-Datenmodellierung/01-Übersicht.md",
     "03-Datenmodellierung/04-Normalisierung",
     "03-Datenmodellierung/03-Beziehungen-Kardinalität Redundanzen",
     "03-Datenmodellierung/02-ERD-ERM",
     "02-Excel und Diagramme/01-Übersicht.md",
-    "01-Daten und Datenstrukturen/01-Übersicht.md",
     "02-Excel und Diagramme/03-Datenqualitaet/Datenqualität.md",
     "02-Excel und Diagramme/04-Excel/ExcelDateienImportierten.md",
     "02-Excel und Diagramme/03-Datenqualitaet",
@@ -400,7 +400,6 @@
     "Pasted image 20261021203259.png",
     "04-Anhaenge/MoRGPhysischModell.png",
     "04-Anhaenge/AgOGSIILogischERD.png",
-    "Arbeitsumgebung I 1.drawio",
     "Unbenannt.canvas"
   ]
 }
