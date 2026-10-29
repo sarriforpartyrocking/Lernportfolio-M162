@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daten und Datenstrukturen/04-Datentypen/Datentypen.md",
+                "file": "01-Daten und Datenstrukturen/05-Zeichenkodierung/Zeichenkodierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datentypen"
+              "title": "Zeichenkodierung"
             }
           }
         ],
@@ -355,9 +355,9 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
-    "Anhaenge/Datentypen.jpg",
-    "01-Daten und Datenstrukturen/04-Datentypen/Datentypen.md",
     "01-Daten und Datenstrukturen/04-Datentypen/DatentypenAufgabe.md",
+    "01-Daten und Datenstrukturen/04-Datentypen/Datentypen.md",
+    "Anhaenge/Datentypen.jpg",
     "01-Daten und Datenstrukturen/03-Merkmalstypen/MerkmalstypenUndSkalentypen.md",
     "01-Daten und Datenstrukturen/03-Merkmalstypen/Fragebogen.md",
     "01-Daten und Datenstrukturen/01-Übersicht.md",
@@ -400,7 +400,6 @@
     "Pasted image 20261021203039.png",
     "Pasted image 20261021203058.png",
     "Pasted image 20261021203259.png",
-    "Anhaenge/MoRGPhysischModell.png",
     "Unbenannt.canvas"
   ]
 }
