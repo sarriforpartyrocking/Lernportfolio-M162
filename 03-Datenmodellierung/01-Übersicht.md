@@ -9,3 +9,4 @@
 ### [06-Referenzielle-Integrität](06-Referenzielle-Integrität)
 
 ### [07-ChatGPT Chatverlauf](07-ChatGPT%20Chatverlauf)
+### [08-Aufgaben](08-Aufgaben-Datenmodellierung)

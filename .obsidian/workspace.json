@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
+                "file": "03-Datenmodellierung/01-Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ag Arbeitsumgebung I"
+              "title": "01-Übersicht"
             }
           }
         ],
@@ -355,15 +355,18 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
-    "Anhaenge/PhysischesERD.png",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Recap Tabelle.md",
-    "Anhaenge/Skalentypen.jpg",
+    "07-ChatGPT Chatverlauf.md",
+    "03-Datenmodellierung/01-Übersicht.md",
+    "08-Aufgaben-Datenmodellierung.md",
     "03-Datenmodellierung/Redundanzen.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store III.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store II.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store I.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Kardinalität.md",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Kardinalität.md",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
+    "Anhaenge/PhysischesERD.png",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Recap Tabelle.md",
+    "Anhaenge/Skalentypen.jpg",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Online Game-Store III.md",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Online Game-Store II.md",
+    "03-Datenmodellierung/08-Aufgaben-Datenmodellierung/Ag Online Game-Store I.md",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf/ChatGPT Chatverlauf.md",
     "03-Datenmodellierung/06-Referenzielle-Integrität/Referenzielle-Integrität.md",
     "03-Datenmodellierung/05-Datenmodelltypen und Umwandlung/VonLogischzuPhysisch.md",
@@ -381,8 +384,6 @@
     "02-Excel und Diagramme/02-Diagramme erstellen/Excel Diagramme erstellen.md",
     "~$Auftrag_DiagrammeI_Quelle.xlsx",
     "02-Excel und Diagramme/02-Diagramme erstellen/EinfacheDiagrammtypen.md",
-    "01-Daten und Datenstrukturen/08-JSON/AuftragJSONSteckbrief.md",
-    "01-Daten und Datenstrukturen/08-JSON/AuftragJSONAdressdatenInterpretieren.md",
     "Anhaenge/Datentypen.jpg",
     "Anhaenge/FragebogenStudiengangInformatik.pdf",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf",
@@ -400,7 +401,6 @@
     "Pasted image 20261021203115.png",
     "Pasted image 20261021203039.png",
     "Pasted image 20261021203058.png",
-    "Pasted image 20261021203259.png",
     "Unbenannt.canvas"
   ]
 }
