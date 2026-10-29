@@ -1,14 +1,14 @@
-### [(Un)Strukturierte Daten](UnStrukturierteDaten.md)
+### [(Un)Strukturierte Daten](UnStrukturierteDaten/UnStrukturierteDaten.md)
 
 ### [MerkmalstypenUndSkalentypen](Merkmalstypen/MerkmalstypenUndSkalentypen.md)
 
 ### [Datentypen](Datentypen/Datentypen.md)
 
-### [Zeichenkodierung](Zeichenkodierung.md)
+### [Zeichenkodierung](Zeichenkodierung/Zeichenkodierung.md)
 
 ### [Datenstrukturen](Datenstrukturen/Datenstrukturen.md)
 
-### [DatensicherheitUndDatenschutz](DatensicherheitUndDatenschutz.md)
+### [DatensicherheitUndDatenschutz](DatensicherheitUndDatenschutz/DatensicherheitUndDatenschutz.md)
 
 ### [JSON](JSON/JSON.md)
 
