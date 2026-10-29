@@ -1,7 +1,7 @@
 
 *Referenz: [Daten_Formate/Merkmalstypen_Skalentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Merkmalstypen_Skalentypen.md)*
 
-![Skalentypen](../Anhaenge/Skalentypen.jpg)
+![Skalentypen](../../Anhaenge/Skalentypen.jpg)
 <br>
 **diskret**: Wenn die Anzahl der möglichen Werte abzählbar sind
 e.g.: Anzahl der Auswahlmöglichkeiten ist abzählbar 
