@@ -175,14 +175,12 @@
             "id": "e1338218c3aa6c10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01-Daten und Datenstrukturen/05-Zeichenkodierung/Zeichenkodierung.md",
-                "mode": "source",
-                "source": false
+                "file": "Anhaenge/Skalentypen.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Zeichenkodierung"
+              "icon": "lucide-image",
+              "title": "Skalentypen"
             }
           }
         ],
@@ -355,17 +353,7 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
-    "01-Daten und Datenstrukturen/04-Datentypen/DatentypenAufgabe.md",
-    "01-Daten und Datenstrukturen/04-Datentypen/Datentypen.md",
-    "Anhaenge/Datentypen.jpg",
-    "01-Daten und Datenstrukturen/03-Merkmalstypen/MerkmalstypenUndSkalentypen.md",
-    "01-Daten und Datenstrukturen/03-Merkmalstypen/Fragebogen.md",
-    "01-Daten und Datenstrukturen/01-Übersicht.md",
-    "Anhaenge/FragebogenStudiengangInformatik.pdf",
-    "01-Daten und Datenstrukturen/02-UnStrukturierteDaten/UnStrukturierteDaten.md",
-    "Anhaenge/Skalentypen.jpg",
     "03-Datenmodellierung/Redundanzen.md",
-    "03-Datenmodellierung/01-Übersicht.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store III.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store II.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store I.md",
@@ -383,6 +371,18 @@
     "02-Excel und Diagramme/01-Übersicht.md",
     "02-Excel und Diagramme/04-Excel/Excel Prüfungsvorbereitung.md",
     "02-Excel und Diagramme/04-Excel/AuftragImport.md",
+    "02-Excel und Diagramme/04-Excel/ExcelDateienImportierten.md",
+    "02-Excel und Diagramme/03-Datenqualitaet/Excel Datenqualität.md",
+    "02-Excel und Diagramme/03-Datenqualitaet/Datenqualität.md",
+    "02-Excel und Diagramme/02-Diagramme erstellen/Excel Diagramme erstellen.md",
+    "~$Auftrag_DiagrammeI_Quelle.xlsx",
+    "02-Excel und Diagramme/02-Diagramme erstellen/EinfacheDiagrammtypen.md",
+    "01-Daten und Datenstrukturen/08-JSON/AuftragJSONSteckbrief.md",
+    "01-Daten und Datenstrukturen/08-JSON/AuftragJSONAdressdatenInterpretieren.md",
+    "01-Daten und Datenstrukturen/08-JSON/JSON.md",
+    "Anhaenge/Datentypen.jpg",
+    "Anhaenge/FragebogenStudiengangInformatik.pdf",
+    "Anhaenge/Skalentypen.jpg",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf",
     "03-Datenmodellierung/06-Referenzielle-Integrität",
     "03-Datenmodellierung/04-Normalisierung",
@@ -391,7 +391,6 @@
     "02-Excel und Diagramme/03-Datenqualitaet",
     "01-Daten und Datenstrukturen/05-Zeichenkodierung",
     "01-Daten und Datenstrukturen/07-DatensicherheitUndDatenschutz",
-    "01-Daten und Datenstrukturen/02-UnStrukturierteDaten",
     "Pasted image 20261021203236.png",
     "Pasted image 20261021203217.png",
     "Pasted image 20261021203158.png",

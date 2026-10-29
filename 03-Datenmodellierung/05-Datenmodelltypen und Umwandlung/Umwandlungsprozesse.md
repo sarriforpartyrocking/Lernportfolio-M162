@@ -9,7 +9,7 @@ Regeln:
 3. Es werden neue Beziehungen zwischen den ursprünglichen Entitäten und der neu erstellten Transformationsentität hinzugefügt.
 4. Die Kardinalitäten werden verschoben in der Position.
 
-![Aufloesung](Anhaenge/Aufloesung.png)
+![Aufloesung](../../Anhaenge/Aufloesung.png)
 Von der Mitarbeiter-Seite:
 Ein Mitarbeiter kann 0 bis unendlich Aufgaben bearbeiten.
 
@@ -31,7 +31,7 @@ Anleitung:
 4. Zwischentabelle einen Primärschlüssel geben:
 Bei einer Transformationsentität werden die Fremdschlüssel häufig gemeinsam zum Primärschlüssel, damit jede Zuordnung eindeutig identifiziert wird.
 5. Attribute hinzufügen
-![Umwandlungsprozess-V1](Anhaenge/Umwandlungsprozess-V1.png)
+![Umwandlungsprozess-V1](../../Anhaenge/Umwandlungsprozess-V1.png)
 
 ## Unterschied zu Umwandlungsprozess V2
 - Variante 1: Die Zwischentabelle erhält normalerweise erst nachträglich einen zusammengesetzten PK aus ihren beiden FKs.

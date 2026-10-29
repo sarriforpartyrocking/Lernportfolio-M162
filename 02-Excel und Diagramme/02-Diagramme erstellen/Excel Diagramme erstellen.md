@@ -3,22 +3,22 @@
 ## Aufgaben
 
 ### Parteizugehörigkeit
-![SPLiniendiagramm](Anhaenge/SPLiniendiagramm.png)
+![SPLiniendiagramm](../../Anhaenge/SPLiniendiagramm.png)
 
-![Balkendiagramm](Anhaenge/ParteienBalkendiagramm.png)
+![Balkendiagramm](../../Anhaenge/ParteienBalkendiagramm.png)
 
-![Vergleich](Anhaenge/VergleichSP-SVP.png)
+![Vergleich](../../Anhaenge/VergleichSP-SVP.png)
 
 ![[Auftrag_DiagrammeI_Quelle.xlsx]]
 
 
 ### Corona Situation
 
-![BestaetigteFaelle](Anhaenge/BestaetigteFaelle.png)
+![BestaetigteFaelle](../../Anhaenge/BestaetigteFaelle.png)
 
-![Altersverteilung](Anhaenge/Altersverteilung.png)
+![Altersverteilung](../../Anhaenge/Altersverteilung.png)
 
-![FallzahlenProTag](Anhaenge/FallzahlenProTag.png)
+![FallzahlenProTag](../../Anhaenge/FallzahlenProTag.png)
 #### Interpretation
 Wir sehen, dass die meisten COVID-Fälle in den älteren Altersgruppen auftraten. Ausserdem erkennen wir, dass Kantone mit mehr Einwohnern tendenziell auch mehr bestätigte Fälle aufweisen. Im Diagramm „COVID-Fälle pro Tag“ ist zudem die zweite Welle deutlich zu erkennen. Was auffällt ist, dass die Zahlen der Fälle bei Männern allgemein deutlich höher ist als bei den Frauen, aber bei den 80+ Jährigen ist dann der Frauenanteil höher.
 

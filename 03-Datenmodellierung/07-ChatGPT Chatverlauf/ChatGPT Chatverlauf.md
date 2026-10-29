@@ -116,11 +116,11 @@ Du schaust in `MITARBEITER_HAT_AUFGABE` nach, welcher Mitarbeiter welche Aufgabe
 
 Zum Beispiel:
 
-|MitarbeiterID (FK)|AufgabeID (FK)|
-|---|---|
-|1|10|
-|1|20|
-|2|10|
+| MitarbeiterID (FK) | AufgabeID (FK) |
+| ------------------ | -------------- |
+| 1                  | 10             |
+| 1                  | 20             |
+| 2                  | 10             |
 
 Das bedeutet:
 

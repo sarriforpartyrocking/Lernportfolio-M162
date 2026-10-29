@@ -1,1 +1,1 @@
-![LogischesERDOnlineGamestoreI.png](Anhaenge/LogischesERDOnlineGamestoreI.png)
+![LogischesERDOnlineGamestoreI.png](../../Anhaenge/LogischesERDOnlineGamestoreI.png)
