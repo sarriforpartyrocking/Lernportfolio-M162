@@ -1,1 +1,1 @@
-![Fragebogen](../../Anhaenge/FragebogenStudiengangInformatik.pdf)
+![Fragebogen](../Anhaenge/FragebogenStudiengangInformatik.pdf)
