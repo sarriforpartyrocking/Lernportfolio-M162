@@ -1,1 +1,5 @@
-In diesem Kapitel wurde [Excel Diagramme erstellen](02-Excel und Diagramme/02-Diagramme erstellen), [Excel Datenqualität](Excel und Diagramme/02-Diagramme erstellen),  und [Datenqualität](Excel Datenqualität/03-Datenqualitaet) behandelt.
+### [02-Excel Diagramme erstellen](02-Excel und Diagramme/02-Diagramme erstellen)
+
+### [03-Excel Datenqualität](Excel und Diagramme/02-Diagramme erstellen)
+
+### [04-Datenqualität](Excel Datenqualität/03-Datenqualitaet)
