@@ -1,4 +1,4 @@
-### [02-(Un)Strukturierte Daten](02-UnStrukturierteDaten/UnStrukturierteDaten.md)
+### [02-(Un)Strukturierte Daten](02-UnStrukturierteDaten)
 
 ### [03-MerkmalstypenUndSkalentypen](03-Merkmalstypen/MerkmalstypenUndSkalentypen.md)
 
