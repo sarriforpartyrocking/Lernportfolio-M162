@@ -175,12 +175,14 @@
             "id": "e1338218c3aa6c10",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Anhaenge/Skalentypen.jpg"
+                "file": "01-Daten und Datenstrukturen/03-Merkmalstypen/MerkmalstypenUndSkalentypen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Skalentypen"
+              "icon": "lucide-file",
+              "title": "MerkmalstypenUndSkalentypen"
             }
           }
         ],
@@ -353,6 +355,8 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
+    "01-Daten und Datenstrukturen/02-UnStrukturierteDaten/UnStrukturierteDaten.md",
+    "Anhaenge/Skalentypen.jpg",
     "03-Datenmodellierung/Redundanzen.md",
     "03-Datenmodellierung/01-Übersicht.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store III.md",
@@ -378,7 +382,6 @@
     "02-Excel und Diagramme/02-Diagramme erstellen/Excel Diagramme erstellen.md",
     "02-Excel und Diagramme/02-Diagramme erstellen/EinfacheDiagrammtypen.md",
     "01-Daten und Datenstrukturen/01-Übersicht.md",
-    "01-Daten und Datenstrukturen/08-JSON/AuftragJSONSteckbrief.md",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf",
     "03-Datenmodellierung/06-Referenzielle-Integrität",
     "03-Datenmodellierung/04-Normalisierung",
@@ -398,7 +401,6 @@
     "Pasted image 20261021203058.png",
     "Pasted image 20261021203259.png",
     "Anhaenge/MoRGPhysischModell.png",
-    "Anhaenge/AgOGSIILogischERD.png",
     "Unbenannt.canvas"
   ]
 }
