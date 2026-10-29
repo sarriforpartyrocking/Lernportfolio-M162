@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daten und Datenstrukturen/02-UnStrukturierteDaten/UnStrukturierteDaten.md",
+                "file": "02-Excel und Diagramme/01-Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UnStrukturierteDaten"
+              "title": "01-Übersicht"
             }
           }
         ],
@@ -355,12 +355,17 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
+    "02-Excel und Diagramme/03-Datenqualitaet/Datenqualität.md",
+    "02-Excel und Diagramme/01-Übersicht.md",
+    "02-Excel und Diagramme/04-Excel/ExcelDateienImportierten.md",
+    "02-Excel und Diagramme/03-Datenqualitaet",
+    "02-Excel und Diagramme/03-Datenqualitaet/Excel Datenqualität.md",
+    "01-Daten und Datenstrukturen/02-UnStrukturierteDaten/UnStrukturierteDaten.md",
     "01-Daten und Datenstrukturen/01-Übersicht.md",
     "02-UnStrukturierteDaten.md",
     "01-Daten und Datenstrukturen/06-Datenstrukturen/DatenstrukturenAufgabe.md",
     "01-Daten und Datenstrukturen/06-Datenstrukturen/Datenstrukturen.md",
     "01-Daten und Datenstrukturen/08-JSON/JSON.md",
-    "01-Daten und Datenstrukturen/02-UnStrukturierteDaten/UnStrukturierteDaten.md",
     "Daten und Datenstrukturen/OpenData.md",
     "01-Daten und Datenstrukturen/05-Zeichenkodierung/Zeichenkodierung.md",
     "01-Daten und Datenstrukturen/05-Zeichenkodierung",
@@ -368,15 +373,11 @@
     "01-Daten und Datenstrukturen/07-DatensicherheitUndDatenschutz",
     "Excel.md",
     "01-Daten und Datenstrukturen/02-UnStrukturierteDaten",
-    "02-Excel und Diagramme/Übersicht.md",
-    "02-Excel und Diagramme/Diagramme erstellen/Excel Diagramme erstellen.md",
+    "02-Excel und Diagramme/02-Diagramme erstellen/Excel Diagramme erstellen.md",
     "Excel/Excel.md",
-    "02-Excel und Diagramme/Excel/Excel Prüfungsvorbereitung.md",
-    "02-Excel und Diagramme/Diagramme erstellen/EinfacheDiagrammtypen.md",
-    "02-Excel und Diagramme/Excel/ExcelDateienImportierten.md",
-    "02-Excel und Diagramme/Excel/AuftragImport.md",
-    "02-Excel und Diagramme/Excel/Excel Datenqualität.md",
-    "02-Excel und Diagramme/Datenqualität.md",
+    "02-Excel und Diagramme/04-Excel/Excel Prüfungsvorbereitung.md",
+    "02-Excel und Diagramme/02-Diagramme erstellen/EinfacheDiagrammtypen.md",
+    "02-Excel und Diagramme/04-Excel/AuftragImport.md",
     "Excel",
     "03-Datenmodellierung/Übersicht.md",
     "01-Daten und Datenstrukturen/03-Merkmalstypen/MerkmalstypenUndSkalentypen.md",
@@ -384,7 +385,6 @@
     "03-Datenmodellierung/ERD-ERM.md",
     "03-Datenmodellierung/Beziehungen-Kardinalität.md",
     "03-Datenmodellierung/Redundanzen.md",
-    "03-Datenmodellierung/Normalisierung.md",
     "Pasted image 20261021203236.png",
     "Pasted image 20261021203217.png",
     "Pasted image 20261021203158.png",
@@ -400,7 +400,6 @@
     "03-Datenmodellierung/Aufgaben-Datenmodellierung",
     "03-Datenmodellierung/Datenmodelltypen und Umwandlung",
     "ERD",
-    "03-Datenmodellierung",
     "Unbenannt.canvas"
   ]
 }
