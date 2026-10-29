@@ -34,4 +34,4 @@ Art der Kardinalskala mit einem natürlichen Nullpunkt: E.g. Liter Wasser, die m
 
 
 # Aufgabe
-[Fragebogen öffnen](../../Anhaenge/FragebogenStudiengangInformatik.pdf)
+[Fragebogen](Fragebogen.md)

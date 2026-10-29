@@ -1,7 +1,7 @@
 *Referenz: [Daten_Formate/Datentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Datentypen.md)*
 
 
-![Datentypen](Datentypen.jpg)
+![Datentypen](../../Datentypen.jpg)
 <br>
 # Primitive Datentypen
 | Datentyp                                 | Bezeichnung                                          | Wertebereich                                               | Operationen                                              |
@@ -28,13 +28,13 @@
 | `double`  | 8 Byte = 64 Bit | genauere Kommazahlen             |
 
 # Komplexe Datentypen
-| Datentyp | Bezeichnung | Wertebereich | Operationen |
-|---|---|---|---|
-| **Zeichenkette fester Länge** | `Array of CHAR`, `CHAR(n)`, `CHAR[n]` | Alle möglichen Zeichenketten mit fester Länge | Stringfunktionen (Teilstring, Konkatenation), `<`, `>`, `=` |
-| **Zeichenkette variabler Länge** | `String`, `Array of CHAR`, `VARCHAR`, `CLOB`, `Text` | Zeichenketten variabler Länge | Stringfunktionen (Teilstring, Länge, Konkatenation), `<`, `>`, `=` |
-| **Datum & Zeit** | `DATE`, `TIME`, `DATETIME`, `TIMESTAMP` | Verschiedene Definitionen, z. B. Datum und Uhrzeit | `+`, `-` teilweise möglich, Vergleich mit `=` oder Methoden |
-| **Binäre Datenobjekte** | `BLOB`, Bild, Audio, Video, … | Binäre Datenobjekte variabler Länge | Länge, Konkatenation, `=` |
-| **Verbund / Struktur** | `RECORD`, `STRUCT`, `CLASS` | Folge verschiedener Komponenten, die unterschiedliche Datentypen haben können | Vergleich, Zuweisung |
+| Datentyp                         | Bezeichnung                                          | Wertebereich                                                                  | Operationen                                                        |
+| -------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Zeichenkette fester Länge**    | `Array of CHAR`, `CHAR(n)`, `CHAR[n]`                | Alle möglichen Zeichenketten mit fester Länge                                 | Stringfunktionen (Teilstring, Konkatenation), `<`, `>`, `=`        |
+| **Zeichenkette variabler Länge** | `String`, `Array of CHAR`, `VARCHAR`, `CLOB`, `Text` | Zeichenketten variabler Länge                                                 | Stringfunktionen (Teilstring, Länge, Konkatenation), `<`, `>`, `=` |
+| **Datum & Zeit**                 | `DATE`, `TIME`, `DATETIME`, `TIMESTAMP`              | Verschiedene Definitionen, z. B. Datum und Uhrzeit                            | `+`, `-` teilweise möglich, Vergleich mit `=` oder Methoden        |
+| **Binäre Datenobjekte**          | `BLOB`, Bild, Audio, Video, …                        | Binäre Datenobjekte variabler Länge                                           | Länge, Konkatenation, `=`                                          |
+| **Verbund / Struktur**           | `RECORD`, `STRUCT`, `CLASS`                          | Folge verschiedener Komponenten, die unterschiedliche Datentypen haben können | Vergleich, Zuweisung                                               |
 
 # Wie werden Datentypen im Speicher abgelegt?
 
@@ -42,6 +42,6 @@
 Java: 
 Die beiden Hauptspeicher sind die beiden *Speichertypen* **Heap** und **Stack**. Stack speichert die einfachen/primitiven Datentypen, während Heap für die zusammengesetzen/komplexen verantwortlich ist. Auf die komplexen Datentypen wird mit einem Pointer aus dem Stack referenziert: 
 <br>
-![MemoryManagement](MemoryManagement.png)
+![MemoryManagement](../../MemoryManagement.png)
 
 [DatentypenAufgabe](DatentypenAufgabe.md)
