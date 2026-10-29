@@ -1,7 +1,7 @@
 *Referenz: [Daten_Formate/Datentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Datentypen.md)*
 
 
-![Datentypen](../../Datentypen.jpg)
+![Datentypen](../../Anhaenge/Datentypen.jpg)
 <br>
 # Primitive Datentypen
 | Datentyp                                 | Bezeichnung                                          | Wertebereich                                               | Operationen                                              |
