@@ -1,0 +1,1 @@
+![AgRecapTabelle.png](AgRecapTabelle.png)

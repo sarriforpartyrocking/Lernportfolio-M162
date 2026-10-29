@@ -1,0 +1,1 @@
+![Kardinalitaeten.jpeg](Kardinalitaeten.jpeg)

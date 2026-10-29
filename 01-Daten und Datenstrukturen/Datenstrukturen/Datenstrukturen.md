@@ -19,7 +19,7 @@ Der kleine Unterschied liegt eher in der **Bezeichnung und im Kontext**:
 - **Record** → englischer Begriff
 
 
-![Datensatz](/Anhaenge/Datensatz.png)
+![Datensatz](Datensatz.png)
 
 
 Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
@@ -45,7 +45,7 @@ Alle drei können eine **Zeile mit zusammengehörigen Attributwerten** meinen.
 - **Analogie:** Zug mit verbundenen Wagen
 - Der Knoten kennt **nur** seinen Nachfolger, der letzte Zeiger hat den "Nullzeiger", da dieser auf nichts zeigt
 
-![VerketteteListe](/Anhaenge/VerketteteListe.png)
+![VerketteteListe](VerketteteListe.png)
 
 **Suchen**: Durch Liste hindurch iterieren (dauert lange)
 **Einfügen**: Element wird eingeschoben und Zeiger vom Vorgänger zeigt nun auf das neue Element; der Zeiger des neuen Element widerum auf das nächste
@@ -69,7 +69,7 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - `dequeue` → erstes Element entfernen
 - **Analogie:** Warteschlange
 
-![Queue](/Anhaenge/Queue.png)
+![Queue](Queue.png)
 
 ## Priority Queue / Vorrangwarteschlange
 
@@ -81,7 +81,7 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Dequeue liefert das Objekt mit der höchsten priorität
 
 
-![Vorrangwarteschlange](/Anhaenge/Vorrangwarteschlange.png)
+![Vorrangwarteschlange](Vorrangwarteschlange.png)
 ## Graph
 
 - Besteht aus **Knoten und Verbindungen**
@@ -89,7 +89,7 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Verbindungen können ein- oder zweiseitig sein
 - Beispiel: GPS / Strassennetz
 
-![Graph](/Anhaenge/Graph.png)
+![Graph](Graph.png)
 
 ## Baum
 
@@ -108,7 +108,7 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - Wichtig: `insert`, `remove`, `extractMin`
 - Ermöglicht schnelles Finden des Elements mit der höchsten/niedrigsten Priorität
 
-![Heap](/Anhaenge/Heap.png)
+![Heap](Heap.png)
 
 ## Hashtabelle
 
@@ -118,6 +118,6 @@ Wird das Element am Schluss gelöscht so wird der Zeiger des Vorgängers zum Nul
 - **Hash-Kollision:** Zwei verschiedene Daten erzeugen **denselben Hashwert** und würden somit auf dieselbe Speicherposition zeigen. (Lösung: anderen Speicherplatz finden oder mehrere Werte an einem Platz verwalten. )
 - Beispiel: `Name → Telefonnummer`
 
-![Hashtabelle](/Anhaenge/Hashtabelle.png)
+![Hashtabelle](Hashtabelle.png)
 
 [DatenstrukturenAufgabe](DatenstrukturenAufgabe.md)

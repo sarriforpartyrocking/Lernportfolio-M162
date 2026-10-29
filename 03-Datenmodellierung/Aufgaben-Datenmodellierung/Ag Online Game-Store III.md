@@ -1,0 +1,1 @@
+![MoRGPhysischModell.png|700](MoRGPhysischModell.png)

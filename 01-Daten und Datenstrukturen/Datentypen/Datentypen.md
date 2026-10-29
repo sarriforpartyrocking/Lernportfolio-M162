@@ -1,7 +1,7 @@
 *Referenz: [Daten_Formate/Datentypen.md · KES · TBZ-IT-Informatik / modules for students / m162 · GitLab](https://gitlab.com/ch-tbz-it/Stud/m162/-/blob/KES/Daten_Formate/Datentypen.md)*
 
 
-![Datentypen](/Anhaenge/Datentypen.jpg)
+![Datentypen](Datentypen.jpg)
 <br>
 # Primitive Datentypen
 | Datentyp                                 | Bezeichnung                                          | Wertebereich                                               | Operationen                                              |
@@ -42,6 +42,6 @@
 Java: 
 Die beiden Hauptspeicher sind die beiden *Speichertypen* **Heap** und **Stack**. Stack speichert die einfachen/primitiven Datentypen, während Heap für die zusammengesetzen/komplexen verantwortlich ist. Auf die komplexen Datentypen wird mit einem Pointer aus dem Stack referenziert: 
 <br>
-![MemoryManagement](/Anhaenge/MemoryManagement.png)
+![MemoryManagement](MemoryManagement.png)
 
 [DatentypenAufgabe](DatentypenAufgabe.md)

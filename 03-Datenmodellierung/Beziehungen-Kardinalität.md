@@ -6,14 +6,14 @@ Assoziationen bestehen aus Kardinalitäten und Bezeichnungen:
 ### Kardinalität
 **Kardinalität**: Mengenangabe, die sagt wie viele Entitäten es in der Beziehung gibt:
 	- Beispiel: Es kann **m viele** Mitarbeiter in **einer** Abteilung geben: 
-	![Kardinalität|474](/Anhaenge/Kardinalität.png)
+	![Kardinalität|474](Kardinalität.png)
 	
 
 ### Bezeichnungen
 **Bezeichnungen**: Zeigt, wie man die Beziehung deuten muss; je nach Bezeichnung ändern sich die Kardinalitäten:
 	- Beispiel: Viele Mitarbeiter **arbeiten für** eine Abteilung; die Bezeichnung könnte aber auch sein: Viele Mitarbeiter **sind** einer Abteilung **zugewiesen**:
 	- 
-	![Bezeichnung|491](/Anhaenge/Bezeichnung.png)
+	![Bezeichnung|491](Bezeichnung.png)
 
 
 ## Die vier Beziehungstypen
@@ -25,7 +25,7 @@ Assoziationen bestehen aus Kardinalitäten und Bezeichnungen:
 | mc        | Beliebig viele Datensätze. Also kein, ein oder unendlich viele |
 ### Kombinationen der Beziehungstypen
 
-![Beziehungstypen-Kombinationen](/Anhaenge/Beziehungstypen-Kombinationen.png)
+![Beziehungstypen-Kombinationen](Beziehungstypen-Kombinationen.png)
 #### Die drei Beziehungstypen in der Abbildung
 
 ##### 1. Hierarchische Beziehungen – dunkelgrau

@@ -3,20 +3,20 @@
 ## Aufgaben
 
 ### Parteizugehörigkeit
-![SPLiniendiagramm](/Anhaenge/SPLiniendiagramm.png)
+![SPLiniendiagramm](SPLiniendiagramm.png)
 
-![Balkendiagramm](/Anhaenge/ParteienBalkendiagramm.png)
+![Balkendiagramm](ParteienBalkendiagramm.png)
 
-![Vergleich](/Anhaenge/VergleichSP-SVP.png)
+![Vergleich](VergleichSP-SVP.png)
 
 ![[Auftrag_DiagrammeI_Quelle.xlsx]]
 
 
 ### Corona Situation
 
-![BestaetigteFaelle](/Anhaenge/BestaetigteFaelle.png)
+![BestaetigteFaelle](BestaetigteFaelle.png)
 
-![Altersverteilung](/Anhaenge/Altersverteilung.png)
+![Altersverteilung](Altersverteilung.png)
 
 ![FallzahlenProTag](FallzahlenProTag.png)
 #### Interpretation
