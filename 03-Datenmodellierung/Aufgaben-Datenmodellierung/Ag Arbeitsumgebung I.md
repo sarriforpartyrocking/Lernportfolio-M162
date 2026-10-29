@@ -4,4 +4,4 @@
 ![LogischesERD.png](../../Anhaenge/LogischesERD.png)
 
 # Physisches ERD:
-![PhysischesERD.png](Anhaenge/PhysischesERD.png)
+![PhysischesERD.png](../../../Anhaenge/PhysischesERD.png)

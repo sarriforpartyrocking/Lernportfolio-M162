@@ -175,12 +175,14 @@
             "id": "e1338218c3aa6c10",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Anhaenge/Skalentypen.jpg"
+                "file": "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Skalentypen"
+              "icon": "lucide-file",
+              "title": "Ag Arbeitsumgebung I"
             }
           }
         ],
@@ -353,13 +355,15 @@
   },
   "active": "e1338218c3aa6c10",
   "lastOpenFiles": [
+    "Anhaenge/PhysischesERD.png",
+    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
+    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Recap Tabelle.md",
+    "Anhaenge/Skalentypen.jpg",
     "03-Datenmodellierung/Redundanzen.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store III.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store II.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Online Game-Store I.md",
     "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Kardinalität.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Arbeitsumgebung I.md",
-    "03-Datenmodellierung/Aufgaben-Datenmodellierung/Ag Recap Tabelle.md",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf/ChatGPT Chatverlauf.md",
     "03-Datenmodellierung/06-Referenzielle-Integrität/Referenzielle-Integrität.md",
     "03-Datenmodellierung/05-Datenmodelltypen und Umwandlung/VonLogischzuPhysisch.md",
@@ -379,10 +383,8 @@
     "02-Excel und Diagramme/02-Diagramme erstellen/EinfacheDiagrammtypen.md",
     "01-Daten und Datenstrukturen/08-JSON/AuftragJSONSteckbrief.md",
     "01-Daten und Datenstrukturen/08-JSON/AuftragJSONAdressdatenInterpretieren.md",
-    "01-Daten und Datenstrukturen/08-JSON/JSON.md",
     "Anhaenge/Datentypen.jpg",
     "Anhaenge/FragebogenStudiengangInformatik.pdf",
-    "Anhaenge/Skalentypen.jpg",
     "03-Datenmodellierung/07-ChatGPT Chatverlauf",
     "03-Datenmodellierung/06-Referenzielle-Integrität",
     "03-Datenmodellierung/04-Normalisierung",
