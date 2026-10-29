@@ -1,5 +1,5 @@
-![AgOGSIILogischERD.png](AgOGSIILogischERD.png)
+![AgOGSIILogischERD.png](Anhaenge/AgOGSIILogischERD.png)
 
 
 
-![AgOGSII.png](AgOGSII.png)
+![AgOGSII.png](Anhaenge/AgOGSII.png)

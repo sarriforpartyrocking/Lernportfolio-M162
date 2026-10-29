@@ -3,7 +3,7 @@
 Zeichenkodierung stellt sich die Frage **wie** Daten abgespeichert werden.
 Jedes Zeichen wird auf der Festplatte oder im Speicher binär abgespeichert.
 <br>
-![Skalentypen](asciibasic.gif)
+![Skalentypen](Anhaenge/asciibasic.gif)
 <br>
 Der ASCII-Code benötigt 7 Bit für das Speichern, da mit 7 bit 2^7 (128) Zustände gespeichert werden können.
 Hierbei wird das Zeichen 65 (Dec) und "A" gleich repräsentiert (01000001 (hier 1 Byte= 8Bit)).

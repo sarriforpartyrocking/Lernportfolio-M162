@@ -1,7 +1,7 @@
 
 ![[Arbeitsumgebung I 1.drawio]]
 # Logisches ERD:
-![LogischesERD.png](LogischesERD.png)
+![LogischesERD.png](Anhaenge/LogischesERD.png)
 
 # Physisches ERD:
-![PhysischesERD.png](PhysischesERD.png)
+![PhysischesERD.png](Anhaenge/PhysischesERD.png)

@@ -5,7 +5,7 @@ Das konzeptionelle Datenmodell beschreibt, welche Daten in einem System vorkomme
 
 - Entitäten ohne Attribute
 
-![Konzeptionelles-Datenmodell|269](Konzeptionelles-Datenmodell.png)
+![Konzeptionelles-Datenmodell|269](Anhaenge/Konzeptionelles-Datenmodell.png)
 
 
 ## Logisches Datenmodell
@@ -15,7 +15,7 @@ Das logische Datenmodell beschreibt, wie die Daten strukturiert werden, damit si
 - m(c)-m(c)-Beziehungen werden in der Regel durch eine zusätzliche Zwischentabelle aufgelöst. Beispiel: Mehrere Studenten besuchen mehrere Kurse. Dafür erstellt man eine Tabelle `Teilnahme`, die Studenten und Kurse miteinander verbindet. ->[Umwandlungsprozesse](Umwandlungsprozesse.md)
 - Datentypen *können* definiert sein
 
-![Logisches-Datenmodell](Logisches-Datenmodell.png)
+![Logisches-Datenmodell](Anhaenge/Logisches-Datenmodell.png)
 
  [Vom logischen zum physischen Modell](VonLogischzuPhysisch.md)
 ## Physisches Datenmodell
@@ -25,4 +25,4 @@ Das physische Modell enthält alle Details, die für die Umsetzung auf einem spe
 - Datentypen und andere Eigenschaften eines spezifischen DBMS werden konkret verwendet.
 - Verwenden Sie ein DBMS spezifisches Tool (SQL-Workbench)
 
-![Physisches-Datenmodell](Physisches-Datenmodell.png)
+![Physisches-Datenmodell](Anhaenge/Physisches-Datenmodell.png)

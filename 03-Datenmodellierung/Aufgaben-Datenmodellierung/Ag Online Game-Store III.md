@@ -1,1 +1,1 @@
-![MoRGPhysischModell.png|700](MoRGPhysischModell.png)
+![MoRGPhysischModell.png|700](Anhaenge/MoRGPhysischModell.png)

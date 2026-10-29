@@ -1,1 +1,1 @@
-![AgRecapTabelle.png](AgRecapTabelle.png)
+![AgRecapTabelle.png](Anhaenge/AgRecapTabelle.png)
